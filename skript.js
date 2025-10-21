@@ -11,11 +11,7 @@
  const userInputItem2 = prompt("item 2")
 
 
-fi (
-    userInputName == => 3
-) {
 
-}
 
 
   let character = {
@@ -31,4 +27,5 @@ fi (
    }
 
     console.log( character )
+
 
